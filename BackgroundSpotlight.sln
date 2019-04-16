@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundSpotlight", "BackgroundSpotlight\BackgroundSpotlight.csproj", "{122CDF98-894B-4B81-A667-A568BD1EF0BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3021631-C378-428F-AECF-6A980FC6C26D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122CDF98-894B-4B81-A667-A568BD1EF0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122CDF98-894B-4B81-A667-A568BD1EF0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122CDF98-894B-4B81-A667-A568BD1EF0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122CDF98-894B-4B81-A667-A568BD1EF0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB76926-23C9-472E-815B-152531A650A3}
+	EndGlobalSection
+EndGlobal
